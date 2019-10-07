@@ -1,0 +1,6 @@
+fieldset{
+    width: 20%;
+    border-color: black;
+    border-style: double;
+    border-width: 5px;
+}
